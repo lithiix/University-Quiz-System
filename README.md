@@ -27,3 +27,12 @@ The **University Quiz System** is a console-based application implemented in **C
 ```bash
 git clone https://github.com/lithix/Quiz-System.git
 cd Quiz-System
+
+
+---
+
+✅ **"Download & Run"** section for easy access  
+✅ **Direct link to Quiz System.exe file**  
+✅ **Simple instructions for non-developers**  
+
+🚀
