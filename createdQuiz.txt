@@ -1,0 +1,50 @@
+IQ
+8
+Which planet is known as the Red Planet?
+Earth
+Mars
+Jupiter
+Venus
+2
+What is the largest mammal in the world?
+Elephant
+Giraffe
+Blue Whale
+Hippopotamus
+3
+Who painted the Mona Lisa?
+Vincent van Gogh
+Pablo Picasso
+Leonardo da Vinci
+Michelangelo
+3
+What is the chemical symbol for gold?
+Ag
+Fe
+Au
+Cu
+3
+Which country is home to the Great Barrier Reef?
+Brazil
+United States
+Canada
+Australia
+4
+What is the largest organ in the human body?
+Heart
+Brain
+Liver
+Skin
+4
+Which programming language was created by James Gosling?
+C++
+Python
+JavaScript
+Java
+4
+What is the capital of Japan?
+Seoul
+Beijing
+Tokyo
+Bangkok
+3
